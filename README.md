@@ -1,23 +1,24 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+# Stuck Overflow Digital Garden
 
-# Digital garden Jekyll template
+This repository contains [Stuck Overflow](https://twitch.tv/stuck_overflow)
+Digital Garden: a series of notes about various projects and effort, with no
+particular organisation.
 
-Use this template repository to get started with your own digital garden.
+# Adding a note
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
+To add a note simply create a new `.md` file under the
+[`_notes`](https://github.com/stuck-overflow/stuck-overflow.github.io/tree/master/_notes)
+directory. That's it. For a good example of how to create links to other notes
+and other stuff check
+[this](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md)
+file
+([published](https://digital-garden-jekyll-template.netlify.app/your-first-note) version) from
+the template we use.
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+## Credits and License
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
-
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
-
-## License
+This site uses the [Digital garden Jekyll
+template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+by [Maxime Vaillancourt](http://maximevaillancourt.com).
 
 Source code is available under the [MIT license](LICENSE.md).

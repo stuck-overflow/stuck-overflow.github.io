@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# What's Stuck Overflow?
 
-Feel free to tell the world about what you love! 😍
+Stuck Overflow is a wholesome [Twitch](https://twitch.tv/stuck_overflow) stream and the nice community around it.
